@@ -96,4 +96,37 @@ C'est l'ensemble des diagrammes qui nous permetent de visualiser le comportement
 
 #### Objets de modélisation à reprendre dans les diagrammes suivants
 
-- 
+- rien
+-----
+
+### Définition de la boite blanche du système à faire
+
+#### Les aspect du système à faire
+
+Reprendre l'architecture fonctionnel pour décrire le système, en précisant le rôle de chaque composant, ainsi que définir des ports de communication entre les composants et les parties prenantes.
+
+#### Les diagrammes utilisé et les éléments essentiels du diagramme
+
+- Diagramme d'activité.
+- Diagramme de séquence.
+- Diagramme d'état (Statechart).
+- Diagramme de définition de blocs.
+- Diagramme d'IBD.
+
+#### Objets de modélisation à reprendre dans les diagrammes suivants
+
+- Les ports des composants.
+- L'intérraction des parties prenantes avec les composants.
+
+-----
+
+### Définition de la boite blanche du système à faire
+
+#### Les aspect du système à faire
+
+
+#### Les diagrammes utilisé et les éléments essentiels du diagramme
+
+
+
+#### Objets de modélisation à reprendre dans les diagrammes suivants
