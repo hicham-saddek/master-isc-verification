@@ -36,3 +36,15 @@ Définir les cas d'utilisation du système ainsi que les fonction du système g�
 
 - Les use cases.
 - Les scénarios de chaque use case.
+
+-----
+
+### Cycle de vie du système
+
+#### Les aspects du système à faire
+
+Définir les multiples étapes par les quelles passe le système du début à la fin de sa vie.
+
+#### Les diagrammes utilisé, et les éléments essentiels du diagramme
+
+- 
