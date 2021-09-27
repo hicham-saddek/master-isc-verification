@@ -120,13 +120,18 @@ Reprendre l'architecture fonctionnel pour décrire le système, en précisant le
 
 -----
 
-### Définition de la boite blanche du système à faire
+### Simulation du comportement du système
 
 #### Les aspect du système à faire
 
+Ceci sert à simuler le comportement du système à faire afin de vérifier si le système se comporte comme prévu ainsi de vérifier si il respecte les exigences mise au départ.
 
 #### Les diagrammes utilisé et les éléments essentiels du diagramme
 
-
+- Panel diagram
+- Diagramme de séquence
+- Diagramme d'état (Statechart)
 
 #### Objets de modélisation à reprendre dans les diagrammes suivants
+
+- Simulation du système
