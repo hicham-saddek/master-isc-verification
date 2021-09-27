@@ -30,6 +30,7 @@ Définir les cas d'utilisation du système ainsi que les fonction du système g�
 - Diagrame de cas d'utilisation (UCD).
 - Block système.
 - Les Use cases.
+- Les acteurs du système (Les partie prenantes).
 
 #### Objets de modélisation à reprendre dans les diagrammes suivants
 
