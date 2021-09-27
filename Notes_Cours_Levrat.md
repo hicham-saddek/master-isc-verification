@@ -11,7 +11,10 @@ La description du système, à savoir sa mission, finalité et le problème qu'i
 
 #### Les diagrammes utilisé, et les éléments essentiels du diagramme
 
-- Diagramme 
+- Diagramme des exigences.
+- Le block système.
+- Les notes.
+- Le block d'exigence Mission et finalité.
 
 #### Objets de modélisation à reprendre dans les diagrammes suivants
 
