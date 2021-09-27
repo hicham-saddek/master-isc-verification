@@ -67,7 +67,7 @@ C'est la matrice qui met en évidence les relations entre les besoins et les exi
 
 -----
 
-### La boite noir du système
+### La définition de la boite noire du système
 #### Les aspect du système à faire
 
 C'est l'ensemble des diagrammes qui nous permetent de visualiser le comportement du système et son interraction avec son environnement.
@@ -76,9 +76,8 @@ C'est l'ensemble des diagrammes qui nous permetent de visualiser le comportement
 
 - Diagramme d'activité.
 - Diagramme de séquence.
-- Diagramme d'état.
+- Diagramme d'état (Statechart).
 - Diagramme de définition de blocs.
 
 #### Objets de modélisation à reprendre dans les diagrammes suivants
-- 
-
+- Diagramme d'état en boite noire.
