@@ -92,7 +92,7 @@ C'est l'ensemble des diagrammes qui nous permetent de visualiser le comportement
 
 #### Les diagrammes utilisé et les éléments essentiels du diagramme
 
-- Diagramme IBD.
+- Diagramme BDD.
 
 #### Objets de modélisation à reprendre dans les diagrammes suivants
 
