@@ -47,4 +47,8 @@ Définir les multiples étapes par les quelles passe le système du début à la
 
 #### Les diagrammes utilisé, et les éléments essentiels du diagramme
 
-- Diagramme .
+- Diagramme séquence ?
+
+-----
+
+### 
