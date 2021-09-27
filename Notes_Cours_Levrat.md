@@ -17,14 +17,19 @@ La description du système, à savoir sa mission, finalité et le problème qu'i
 - Le block d'exigence Mission et finalité.
 
 #### Objets de modélisation à reprendre dans les diagrammes suivants
+- Rien
 
 -----
 
-### Analyse des exigences
+### Les cas d'utilisation du système
 #### Les aspect du système à faire
-
-Transformation des besoins
+Définir les cas d'utilisation du système ainsi que les fonction du système générale (utile).
 
 #### Les diagrammes utilisé, et les éléments essentiels du diagramme
 
+- Diagrame de cas d'utilisation (UCD).
+- Block système.
+- Les Use cases.
+
 #### Objets de modélisation à reprendre dans les diagrammes suivants
+
