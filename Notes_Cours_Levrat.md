@@ -9,9 +9,9 @@ L'objectif de la méthode Harmony qui est dans le programme du Master ISC, est l
 
 #### Requirements diagram (Diagramme d'exigences)
 Il fait:
-La relation entre les exigences du système avec d'autre exigences.
-La relation entre les exigences et les modèles d'éléments.
-La dépendance entre les exigences et les testes qui vérifie que les exigences sont respecter.
+- La relation entre les exigences du système avec d'autre exigences.
+- La relation entre les exigences et les modèles d'éléments.
+- La dépendance entre les exigences et les testes qui vérifie que les exigences sont respecter.
 
 ### Objets de modélisation à reprendre dans les diagrammes suivants.
 
