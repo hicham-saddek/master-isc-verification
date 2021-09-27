@@ -33,3 +33,5 @@ Définir les cas d'utilisation du système ainsi que les fonction du système g�
 
 #### Objets de modélisation à reprendre dans les diagrammes suivants
 
+- Les use cases.
+- Les scénarios de chaque use case.
