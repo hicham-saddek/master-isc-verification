@@ -51,4 +51,13 @@ Définir les multiples étapes par les quelles passe le système du début à la
 
 -----
 
-### 
+### Matrice des besoins et des exigences
+#### Les aspects
+
+C'est la matrice qui met en évidence les relations entre les besoins et les exigences.
+
+#### Les diagrammes utilisé, et les éléments essentiels du diagramme
+
+- Matrice des besoins et exigences.
+
+----
