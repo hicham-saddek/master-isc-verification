@@ -80,4 +80,20 @@ C'est l'ensemble des diagrammes qui nous permetent de visualiser le comportement
 - Diagramme de définition de blocs.
 
 #### Objets de modélisation à reprendre dans les diagrammes suivants
-- Diagramme d'état en boite noire.
+- Diagramme d'activité (Pour les swimlanes en boite blanche).
+
+-----
+
+### L'architecture organique du système
+
+#### Les aspect du système à faire
+
+- C'est la séparation du système en plusieurs sous systèmes, chacun pouvant réaliser des taches et des objectifs.
+
+#### Les diagrammes utilisé et les éléments essentiels du diagramme
+
+- Diagramme IBD.
+
+#### Objets de modélisation à reprendre dans les diagrammes suivants
+
+- 
