@@ -32,6 +32,7 @@ Définir les cas d'utilisation du système ainsi que les fonction du système g�
 - Block système.
 - Les Use cases.
 - Les acteurs du système (Les partie prenantes).
+- Diagramme de définition de blocs
 
 #### Objets de modélisation à reprendre dans les diagrammes suivants
 
@@ -63,3 +64,21 @@ C'est la matrice qui met en évidence les relations entre les besoins et les exi
 
 #### Objets de modélisation à reprendre dans les diagrammes suivants
 - Rien
+
+-----
+
+### La boite noir du système
+#### Les aspect du système à faire
+
+C'est l'ensemble des diagrammes qui nous permetent de visualiser le comportement du système et son interraction avec son environnement.
+
+#### Les diagrammes utilisé et les éléments essentiels du diagramme
+
+- Diagramme d'activité.
+- Diagramme de séquence.
+- Diagramme d'état.
+- Diagramme de définition de blocs.
+
+#### Objets de modélisation à reprendre dans les diagrammes suivants
+- 
+
