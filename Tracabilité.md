@@ -1,8 +1,8 @@
 # BB
 
-Exigences Systèmes -> Exigences Système : 
-Use case -> Exigences Système : 
-Exigences Fonctionnelles (BB) -> Exigences Systèmes: 
+Exigences Système -> Besoins : Matrice Besoins exigences
+Use case -> Exigences Système : Diagrammes des cas d'utilisations
+Exigences Fonctionnelles (BB) -> Exigences Systèmes: Matrice des exigences
 Blocs + Attributs + Opterations -> Exigences Fonctionnelles (BB) : 
 
 ## WB
