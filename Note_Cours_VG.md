@@ -16,6 +16,7 @@ Block système, c'est un block qui rassemble l'ensemble d'un système ou d'un so
 ## Value Property
 
 C'est une variable pour la simulation
+pour faire une orientation de choix prendre une decision
 
 ## Operations
 
@@ -52,4 +53,4 @@ C'est la décomposition du système en plusieurs composants, chacun capable de r
 ## Architecture interactions
 
 C'est l'architecture du systèmes avec ses sous systèmes et la relations entre eux (Les ports).
-C'est l'ensemle de diagrammes qui montrent l'interaction entre les composants du système.
+C'est l'ensemle de diagrammes qui montrent l'interaction entre les composants du système.(IBD)
